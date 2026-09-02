@@ -46,6 +46,10 @@ The demonstration uses a synthetic dataset of 12 independent studies. The datase
 - `stress_testing_meta_analysis.py` — complete executable Python analysis script
 - `README.md` — repository documentation
 
+## Synthetic Dataset
+The file synthetic_meta_analysis_data.csv contains 12 study synthetic dataset used for the demonstration in this technical report. The dataset is entirely synthetic and contains no real patient-level or clinical data.
+The Python script and google Colab notebook reproduce the meta-analysis workflow using this dataset.
+
 ## Reproducibility
 
 The script is intended to be run in a Python environment such as Google Colab. Users can replace the synthetic demonstration data with verified study-level data after prespecifying the analytical assumptions and sensitivity analyses.
