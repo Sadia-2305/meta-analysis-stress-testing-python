@@ -683,7 +683,7 @@ ax.text(
 ax.set_ylim(0.5, len(data) + 2.5)
 ax.set_yticks([])
 
-ax.set_xlabel("Hedges g (negative favors the intervention)")
+ax.set_xlabel("Hedges g")
 ax.set_title("Forest plot of the illustrative 12-study dataset")
 
 fig.tight_layout()
