@@ -43,7 +43,7 @@ The demonstration uses a synthetic dataset of 12 independent studies. The datase
 
 ## Files
 
-- `stress_testing_meta_analysis.py` — complete executable Python analysis script
+- `stress-testing meta-analysis.py` — complete executable Python analysis script
 - `README.md` — repository documentation
 
 ## Synthetic Dataset
